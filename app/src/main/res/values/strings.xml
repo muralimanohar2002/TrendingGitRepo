@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Trending</string>
+    <string name="trending">Trending</string>
+    <string name="retry">RETRY</string>
+    <string name="something_went_wrong">Something went wrong..</string>
+    <string name="an_alien_is_probably_blocking_your_signal">An alien is probably blocking your signal.</string>
+    <string name="author_name">Author Name</string>
+    <string name="repo_name">Repo Name</string>
+    <string name="description">Description</string>
+    <string name="repo_url">Repo URL</string>
+    <string name="language">Language</string>
+    <string name="stars">Stars</string>
+    <string name="forks">Forks</string>
+</resources>
